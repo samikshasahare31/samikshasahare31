@@ -14,7 +14,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samikshasahare31&show_icons=true&locale=en" alt="samikshasahare31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samikshasahare31&" alt="samikshasahare31" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=samikshasahare31&theme=radical" alt="samikshasahare31" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samikshasahare31&label=Profile%20views&color=0e75b6&style=flat" alt="samikshasahare31" /> </p>
 
